@@ -287,6 +287,12 @@ i {
   gap: 24px;
   color: #ffffff;
 }
+.footer p {
+  line-height: 150%;
+  margin-bottom: 24px;
+  text-align: center;
+  max-width: 780px;
+}
 
 .footer-icons {
   display: flex;

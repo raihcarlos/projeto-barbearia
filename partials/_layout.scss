@@ -233,6 +233,13 @@
     padding: 54px 0;
     gap: 24px;
     color: $white-normal;
+
+    p{
+        line-height: 150%;
+        margin-bottom: 24px;
+        text-align: center;
+        max-width: 780px;
+    }
 }
 
 .footer-icons{
